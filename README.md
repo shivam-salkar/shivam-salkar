@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi there, I’m Shivam.<br><br>💻 Computer Engineering Student at VIT, Mumbai<br>🌐 Passionate about Web & Full-Stack Development<br><br>🛠️ Tech Stack<br><br>Languages: Python, C++<br><br>Frameworks & Tools: Tkinter, Django, TailwindCSS, Figma<br><br>🌱 Currently Learning<br><br>Full-Stack Development<br><br>Frontend Frameworks<br><br>Basic Backend<br><br>DSA with C++
+## 👋 Hi there, I’m Shivam.<br><br>💻 Computer Engineering Student at VIT, Mumbai<br>🌐 Passionate about Web & Full-Stack Development<br><br>🛠️ Tech Stack<br><br>Languages: Python, C++<br><br>Frameworks & Tools: Tkinter, Django, TailwindCSS, Figma<br><br>🌱 Currently Learning<br><br>Full-Stack Development<br><br>Frontend Frameworks<br><br>Basic Backend<br><br>DSA with C++
+
 
 
 ## 🌐 Socials:
