@@ -1,4 +1,4 @@
-![Cat Gif](https://i.pinimg.com/originals/bc/06/72/bc0672a91e49876574951200ee801040.gif)
+![Cat Gif](https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif)
 # 💫 About Me:
 ## 👋 Hi there, I’m Shivam.<br><br>💻 Computer Engineering Student at VIT, Mumbai<br>🌐 Passionate about Web & Full-Stack Development<br><br>🛠️ Tech Stack<br><br>Languages: Python, C++<br><br>Frameworks & Tools: Tkinter, Django, TailwindCSS, Figma<br><br>🌱 Currently Learning<br><br>Full-Stack Development<br><br>Frontend Frameworks<br><br>Basic Backend<br><br>DSA with C++
 
