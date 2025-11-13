@@ -41,8 +41,8 @@ An Computer Engineering Student at VIT (Mumbai).
 
 ### 📫 Connect with Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/shivam-salkar/]()
-* 🤝 PeerList: [https://peerlist.io/salkarshivam28]()
+* 💼 LinkedIn: https://www.linkedin.com/in/shivam-salkar/
+* 🤝 PeerList: https://peerlist.io/salkarshivam28
 * 📧 Email: [salkarshivam28@gmail.com](mailto:salkarshivam28@gmail.com)
 
 <br/>
